@@ -1,4 +1,6 @@
 body{background-color: rgb(63, 1, 63);}
-body{background-image: linear-gradient(to center, rgb(63, 1, 63), rgb(7, 7, 58));}
+body{background-image: linear-gradient(to right, rgb(91, 12, 122), rgb(8, 16, 90));}
 body{text-align: center;}
 footer{text-align: left;}
+body{font-family:arial;}
+body{font-size: 40px;}
